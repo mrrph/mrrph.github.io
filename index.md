@@ -1,3 +1,2 @@
 # Placeholder Page!
-- This is a test to see if plain markdown pages will work
-- It would be great if they did.
+- Here is a link to [the media list](https://mrrph.github.io/media_list.html)
